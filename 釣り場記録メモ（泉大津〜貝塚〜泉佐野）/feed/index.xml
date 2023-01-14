@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	釣り場記録メモ《泉大津〜貝塚〜泉佐野》 へのコメント	</title>
+	<atom:link href="http://localhost/%E9%87%A3%E3%82%8A%E5%A0%B4%E8%A8%98%E9%8C%B2%E3%83%A1%E3%83%A2%EF%BC%88%E6%B3%89%E5%A4%A7%E6%B4%A5%E3%80%9C%E8%B2%9D%E5%A1%9A%E3%80%9C%E6%B3%89%E4%BD%90%E9%87%8E%EF%BC%89/feed/?simply_static_page=7088" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Apr 2022 07:44:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	敗北の新天地開拓《瀬戸内海・大阪湾》 へのコメント	</title>
+	<atom:link href="http://localhost/%E6%95%97%E5%8C%97%E3%81%AE%E6%96%B0%E5%A4%A9%E5%9C%B0%E9%96%8B%E6%8B%93%E3%80%8A%E7%80%AC%E6%88%B8%E5%86%85%E6%B5%B7%E3%83%BB%E5%A4%A7%E9%98%AA%E6%B9%BE%E3%80%8B/feed/?simply_static_page=7462" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Tue, 29 Mar 2022 12:25:03 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>

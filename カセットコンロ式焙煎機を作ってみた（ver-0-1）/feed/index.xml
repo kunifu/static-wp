@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	カセットコンロ式焙煎機を作ってみた（ver.0.1） へのコメント	</title>
+	<atom:link href="http://localhost/%E3%82%AB%E3%82%BB%E3%83%83%E3%83%88%E3%82%B3%E3%83%B3%E3%83%AD%E5%BC%8F%E7%84%99%E7%85%8E%E6%A9%9F%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%EF%BC%88ver-0-1%EF%BC%89/feed/?simply_static_page=7638" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 13 Mar 2022 14:54:42 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>

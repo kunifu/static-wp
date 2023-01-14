@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	my_wp へのコメント	</title>
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=6233" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description></description>
+	<lastBuildDate>Mon, 09 Jan 2023 13:37:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		WordPress コメントの投稿者 より Hello world! へのコメント		</title>
+		<link>./../../hello-world/index.html#comment-1</link>
+
+		<dc:creator><![CDATA[WordPress コメントの投稿者]]></dc:creator>
+		<pubDate>Mon, 09 Jan 2023 13:37:43 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
+
+					<description><![CDATA[こんにちは、これはコメントです。
+コメントの承認、編集、削除を始めるにはダッシュボードの「コメント」画面にアクセスしてください。
+コメントのアバターは「&lt;a href=&quot;https://ja.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;」から取得されます。]]></description>
+			<content:encoded><![CDATA[<p>こんにちは、これはコメントです。<br />
+コメントの承認、編集、削除を始めるにはダッシュボードの「コメント」画面にアクセスしてください。<br />
+コメントのアバターは「<a href="https://ja.gravatar.com/">Gravatar</a>」から取得されます。</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		爆釣！桂浜花街道気持ち良すぎだろ。《高知県・太平洋》 &#124; KTSLAB. より 敗北の釣り場調査《太平洋〜瀬戸内海》 へのコメント		</title>
+		<link>./../../%e9%87%a3%e3%82%8a%e5%a0%b4%e8%aa%bf%e6%9f%bb%e5%a4%aa%e5%b9%b3%e6%b4%8b/index.html#comment-3</link>
+
+		<dc:creator><![CDATA[爆釣！桂浜花街道気持ち良すぎだろ。《高知県・太平洋》 &#124; KTSLAB.]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2022 12:09:17 +0000</pubDate>
+		<guid isPermaLink="false">http://ktslab.jp/?p=285#comment-3</guid>
+
+					<description><![CDATA[[&#8230;] 前回の記事はこちらhttps://ktslab.jp/?p=285 [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] 前回の記事はこちらhttps://ktslab.jp/?p=285 [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		garakuta より 《瀬戸内海・与島》爆釣年越し海鮮丼祭りのはずが，極寒耐久釣り大会になってしまった へのコメント		</title>
+		<link>./../../%e3%80%8a%e7%80%ac%e6%88%b8%e5%86%85%e6%b5%b7%e3%83%bb%e4%b8%8e%e5%b3%b6%e3%80%8b%e7%88%86%e9%87%a3%e5%b9%b4%e8%b6%8a%e3%81%97%e6%b5%b7%e9%ae%ae%e4%b8%bc%e7%a5%ad%e3%82%8a%e3%81%ae%e3%81%af%e3%81%9a/index.html#comment-4</link>
+
+		<dc:creator><![CDATA[garakuta]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2022 14:22:58 +0000</pubDate>
+		<guid isPermaLink="false">https://ktslab.jp/?p=339#comment-4</guid>
+
+					<description><![CDATA[NICE串焼き！！！]]></description>
+			<content:encoded><![CDATA[<p>NICE串焼き！！！</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		garakuta より ≪シーサイドコスモ≫ 冬こそ黒鯛！フカセ釣り挑戦記。 へのコメント		</title>
+		<link>./../../%e2%89%aa%e3%82%b7%e3%83%bc%e3%82%b5%e3%82%a4%e3%83%89%e3%82%b3%e3%82%b9%e3%83%a2%e2%89%ab-%e5%86%ac%e3%81%93%e3%81%9d%e9%bb%92%e9%af%9b%ef%bc%81%e3%83%95%e3%82%ab%e3%82%bb%e9%87%a3%e3%82%8a%e6%8c%91/index.html#comment-5</link>
+
+		<dc:creator><![CDATA[garakuta]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2022 14:22:25 +0000</pubDate>
+		<guid isPermaLink="false">http://ktslab.jp/?p=282#comment-5</guid>
+
+					<description><![CDATA[NICEサバ！！！]]></description>
+			<content:encoded><![CDATA[<p>NICEサバ！！！</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		garakuta より 《武庫川河口》大物ルアーフィッシング へのコメント		</title>
+		<link>./../../%e3%80%8a%e6%ad%a6%e5%ba%ab%e5%b7%9d%e6%b2%b3%e5%8f%a3%e3%80%8b%e5%a4%a7%e7%89%a9%e3%83%ab%e3%82%a2%e3%83%bc%e3%83%95%e3%82%a3%e3%83%83%e3%82%b7%e3%83%b3%e3%82%b0/index.html#comment-6</link>
+
+		<dc:creator><![CDATA[garakuta]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2022 14:21:43 +0000</pubDate>
+		<guid isPermaLink="false">https://ktslab.jp/?p=464#comment-6</guid>
+
+					<description><![CDATA[NICEキビレ?]]></description>
+			<content:encoded><![CDATA[<p>NICEキビレ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		《瀬戸内海・与島》爆釣年越し海鮮丼祭りのはずが，極寒耐久釣り大会になってしまった &#124; KTSLAB. より 敗北の釣り場調査《太平洋〜瀬戸内海》 へのコメント		</title>
+		<link>./../../%e9%87%a3%e3%82%8a%e5%a0%b4%e8%aa%bf%e6%9f%bb%e5%a4%aa%e5%b9%b3%e6%b4%8b/index.html#comment-2</link>
+
+		<dc:creator><![CDATA[《瀬戸内海・与島》爆釣年越し海鮮丼祭りのはずが，極寒耐久釣り大会になってしまった &#124; KTSLAB.]]></dc:creator>
+		<pubDate>Sun, 16 Jan 2022 06:19:25 +0000</pubDate>
+		<guid isPermaLink="false">http://ktslab.jp/?p=285#comment-2</guid>
+
+					<description><![CDATA[[&#8230;] いるが果たしてリベンジなるかというところ．?敗北の釣り場調査《太平洋〜瀬戸内海》 [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] いるが果たしてリベンジなるかというところ．?敗北の釣り場調査《太平洋〜瀬戸内海》 [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

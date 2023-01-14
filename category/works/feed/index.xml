@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>作品 &#8211; my_wp</title>
+	<atom:link href="http://localhost/category/works/feed/?simply_static_page=8179" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sun, 13 Mar 2022 14:54:42 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>カセットコンロ式焙煎機を作ってみた（ver.0.1）</title>
+		<link>./../../../%e3%82%ab%e3%82%bb%e3%83%83%e3%83%88%e3%82%b3%e3%83%b3%e3%83%ad%e5%bc%8f%e7%84%99%e7%85%8e%e6%a9%9f%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%ef%bc%88ver-0-1%ef%bc%89/index.html</link>
+					<comments>./../../../%e3%82%ab%e3%82%bb%e3%83%83%e3%83%88%e3%82%b3%e3%83%b3%e3%83%ad%e5%bc%8f%e7%84%99%e7%85%8e%e6%a9%9f%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%ef%bc%88ver-0-1%ef%bc%89/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[maximize.kts]]></dc:creator>
+		<pubDate>Sun, 13 Mar 2022 14:54:42 +0000</pubDate>
+				<category><![CDATA[作品]]></category>
+		<category><![CDATA[DIY]]></category>
+		<category><![CDATA[コーヒー]]></category>
+		<category><![CDATA[焙煎機]]></category>
+		<guid isPermaLink="false">http://ktslab.flier.jp/?p=475</guid>
+
+					<description><![CDATA[お疲れさまです。テトラです。 皆様はコーヒーお好きですか？コーヒーって奥が深いですよね。私はあんまり味がわからないのでこだわりは無いのですが。 一方、岡山の釣りガイジくんはコーヒーガチガチのガチ勢。オリジナルブレンドを作 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>お疲れさまです。テトラです。</p>
+
+
+
+<p>皆様はコーヒーお好きですか？<br>コーヒーって奥が深いですよね。<br>私はあんまり味がわからないのでこだわりは無いのですが。<br><br>一方、岡山の釣りガイジくんはコーヒーガチガチのガチ勢。<br>オリジナルブレンドを作るために家で焙煎からしたいとのこと。<br><br>ということで釣りガイくんから頼まれて焙煎機を試作してみました。<br>・簡単に焙煎機が作れるか<br>・家でも美味しく焙煎できるか<br>という検証も兼ねています。</p>
+
+
+
+<p></p>
+
+
+
+<p>製作工程をダイジェストでまとめてみたので、こちらをご覧ください。</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="【試作】カセットコンロ式焙煎機作ってみた（ver.0.1）" width="500" height="281" src="https://www.youtube.com/embed/krPPfsmgM1Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="http://ktslab.flier.jp/wp-content/uploads/2022/03/IMG_2924-768x1024.jpeg" alt="" class="wp-image-506" width="552" height="736"/></figure>
+
+
+
+<p>今回は試作なので簡単な作りです。<br>下にカセットコンロを置いて、カラーアングルで枠を作り、<br>Amazonの適当なロースターとモーターを取り付けたもの。</p>
+
+
+
+<p>軸受の部分が若干大変でしたが、いい感じに回っています。<br>しかし問題点としては、<br>・高さ調整が簡単にできない<br>・温度がわからない<br>・熱にムラがある<br>・コンパクトのつもりが案外デカいし重い<br>・豆の取り出しが面倒<br>・冷却装置がない<br>などなど挙げればキリがありません。</p>
+
+
+
+<p></p>
+
+
+
+<p>こんなもので美味しいコーヒーが焼けるのか不安でした。<br>実際に焼いてみると、案の定最初は失敗。<br>全然ハゼてくれません。<br>ハゼ…熱によってコーヒー豆が膨張すること。パチパチと音が鳴る。</p>
+
+
+
+<p></p>
+
+
+
+<p>温度が低いのかと思い、<br>コンロの火力を上げ、ロースターの高さを低くしたところ、<br>熱が伝わるようになりなんとか焙煎できるようになりました。<br><br>更に効率よく熱が伝わるように、アルミかなんかで周りを覆うとさらにいい感じに。<br>それでも生焼けがあるので、取り除く作業が必要ですが。</p>
+
+
+
+<p></p>
+
+
+
+<p><br>いろいろ試行錯誤してちゃんと飲める味になりました。<br>というかふつうに美味しい。香り◎</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="http://ktslab.flier.jp/wp-content/uploads/2022/03/vlcsnap-2022-03-13-23h45m56s521-1024x576.png" alt="" class="wp-image-510" width="840" height="472" srcset="./../../../wp-content/uploads/2022/03/vlcsnap-2022-03-13-23h45m56s521-1024x576.png 1024w, ./../../../wp-content/uploads/2022/03/vlcsnap-2022-03-13-23h45m56s521-300x169.png 300w, ./../../../wp-content/uploads/2022/03/vlcsnap-2022-03-13-23h45m56s521-768x432.png 768w, ./../../../wp-content/uploads/2022/03/vlcsnap-2022-03-13-23h45m56s521-1536x864.png 1536w, ./../../../wp-content/uploads/2022/03/vlcsnap-2022-03-13-23h45m56s521.png 1920w" sizes="(max-width: 840px) 100vw, 840px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p>まだまだ改善点は多くあるので、業務用の焙煎機とも比較しながら、<br>本格的かつ使いやすいオリジナル焙煎機を今後も作っていこうと思います。</p>
+
+
+
+<p>味の評価は私ではできないので、釣りガイくんに丸投げ。よろしく。<br>以上テトラでした。それではまた。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../%e3%82%ab%e3%82%bb%e3%83%83%e3%83%88%e3%82%b3%e3%83%b3%e3%83%ad%e5%bc%8f%e7%84%99%e7%85%8e%e6%a9%9f%e3%82%92%e4%bd%9c%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f%ef%bc%88ver-0-1%ef%bc%89/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
